@@ -1,0 +1,24 @@
+F:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.exe.config
+F:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.exe
+F:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.pdb
+F:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.xml
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbprojAssemblyReference.cache
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK_Latihan_4.Form1.resources
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK_Latihan_4.Resources.resources
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbproj.GenerateResource.cache
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbproj.CoreCompileInputs.cache
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.exe
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.xml
+F:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.pdb
+E:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.exe.config
+E:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.exe
+E:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.pdb
+E:\VB.Net\APK Latihan 4\APK Latihan 4\bin\Debug\APK Latihan 4.xml
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbprojAssemblyReference.cache
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK_Latihan_4.Form1.resources
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK_Latihan_4.Resources.resources
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbproj.GenerateResource.cache
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.vbproj.CoreCompileInputs.cache
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.exe
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.xml
+E:\VB.Net\APK Latihan 4\APK Latihan 4\obj\Debug\APK Latihan 4.pdb
